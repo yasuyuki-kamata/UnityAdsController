@@ -1,6 +1,7 @@
 # UnityAdsController
 
-
+## Download unitypackage
+[Download - UnityAdsController.unitypackage](https://github.com/yasuyuki-kamata/UnityAdsController/releases/download/1.0/UnityAdsController.unitypackage)
 
 ## License
 
